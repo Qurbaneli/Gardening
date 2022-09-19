@@ -1,2 +1,2 @@
 # Gardening
-Gardeding htmlc/css
+Gardeding html/css
